@@ -5,6 +5,9 @@ A simple static website for an online clothing store, designed using **HTML** an
 
 ---
 
+##🌐 Demo
+You can view the live site here https://mina-hill.github.io/Clothing-Website/index.html
+
 ## 📁 Project Structure
 
 ```
@@ -59,7 +62,3 @@ A simple static website for an online clothing store, designed using **HTML** an
 > No frameworks, JavaScript, or backend logic included.
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
