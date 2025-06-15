@@ -1,59 +1,65 @@
 
-🧥 Clothing Store Website
-A simple static website for an online clothing store, designed using HTML and CSS. It features category listings, product pages, cart functionality UI, and payment screens – all in a clean and organized structure.
+# 🧥 Clothing Store Website
 
-🌐 Demo
-You can view the live site here https://mina-hill.github.io/Clothing-Website/index.html
+A simple static website for an online clothing store, designed using **HTML** and **CSS**. It includes product pages, cart interfaces, a checkout page, and more – all built without JavaScript or backend functionality.
 
-📁 Project Structure
-bash
-Copy
-Edit
+---
+
+## 📁 Project Structure
+
+```
 .
 ├── index.html              # Homepage
 ├── categories.html         # Lists clothing categories
-├── clothes/                # Images of clothing items
-│   ├── p1.png - p5.png
-├── products/               # Individual product pages
-│   ├── p1.html - p5.html
-├── cart.html               # Combined cart page
-├── cart1.html - cart5.html # Item-specific cart pages
-├── checkout.html           # Checkout UI
-├── payment.html            # Payment UI
 ├── login.html              # Login page
-├── style.css               # Main stylesheet
-├── favicon.ico             # Favicon
+├── cart.html               # Combined cart view
+├── cart1.html - cart5.html # Cart pages for individual products
+├── checkout.html           # Checkout interface
+├── payment.html            # Payment interface
+├── style.css               # Main CSS file
 ├── logo.png                # Store logo
-└── images/                 # Additional design images
-✨ Features
-Static homepage with links to categories and products
+├── favicon.ico             # Favicon
+├── clothes/                # Contains p1.png - p5.png
+├── products/               # Contains p1.html - p5.html
+├── images/                 # Additional design assets
+```
 
-Separate pages for 5 different products
+---
 
-Basic cart UI (cart1.html to cart5.html and cart.html)
+## ✨ Features
 
-Checkout and payment interface
+- Clean homepage and category layout
+- 5 product pages (`p1.html` to `p5.html`)
+- Individual cart pages for each product
+- Checkout and payment UI
+- Login screen
+- Organized CSS styling
 
-Login screen
+---
 
-Responsive layout using basic CSS
+## 🚀 How to Run Locally
 
-🚀 How to Run
-Download or clone the repository
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-Open index.html in your browser
+2. Open `index.html` in your browser:
+   - Double-click it  
+   - Or right-click → *Open with* → your preferred browser
 
-You can just double-click the file or right-click → Open with → your browser.
+---
 
-🛠️ Built With
-HTML5 — for structure
+## 🛠️ Built With
 
-CSS3 — for styling
+- HTML5
+- CSS3
 
-📦 No JavaScript or backend functionality (purely frontend)
+> No frameworks, JavaScript, or backend logic included.
 
-📸 Screenshots
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
