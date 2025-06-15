@@ -5,7 +5,7 @@ A simple static website for an online clothing store, designed using **HTML** an
 
 ---
 
-##🌐 Demo
+## 🌐 Demo
 You can view the live site here https://mina-hill.github.io/Clothing-Website/index.html
 
 ## 📁 Project Structure
