@@ -4,7 +4,7 @@
 
 A static, no-JavaScript, no-backend website for a gothic/vintage-inspired clothing store — product pages, per-item cart pages, a checkout flow, and a payment form, all built with plain **HTML5** and **CSS3**.
 
-**🌐 Live demo: [mina-hill.github.io/Clothing-Website](https://mina-hill.github.io/Clothing-Website/index.html)**
+**🌐 Live demo: [mina-hill.github.io/Raven-Attire-Clothing-Store-Website/](https://mina-hill.github.io/Raven-Attire-Clothing-Store-Website/)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
